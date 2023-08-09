@@ -1,0 +1,113 @@
+.page_header2 {
+  height: 100px;
+  width: 100vw;
+  /* background: linear-gradient(
+      180deg,
+      rgba(229, 229, 229, 0.35) 0%,
+      rgba(217, 217, 217, 0.07) 98.29%
+    ); */
+  display: flex;
+  justify-content: space-around;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+}
+li a {
+  display: block; 
+  color: white;
+  text-align: center;
+  padding: 16px;
+  opacity: 0.8;
+  text-decoration: none;
+  font-size: 30px;
+}
+.svg img {
+  width: 50px;
+  height: 50px;
+}
+li a:hover {
+  opacity: 1;
+}
+h3 span {
+  color: green;
+}
+h3 {
+  color: white;
+  font-size: 50px;
+}
+ul h4 {
+  color: #bc88ff;
+}
+.learning_content1 {
+  height: 266px;
+  width: 400px;
+  background-color: blueviolet;
+  border-radius: 36px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.learning_container {
+  gap: 10%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.learning_container2 {
+  gap: 20%;
+  display: grid;
+  margin-top: -5%;
+}
+.learning_container2 h5 {
+  color: white;
+  font-size: 40px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.learning_container2 h5 span {
+  color: rgb(147, 211, 246);
+  
+}
+.learning_content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+  height: 800px;
+  width: 100vw;
+}
+.learning_content1{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.learning_container2 p {
+  color: #d3cece;
+  font-size: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.learning_content2 img {
+  height: 10px;
+}
+.learning_container2 button{
+  background: linear-gradient(180deg, #80D9FF 0%, rgba(0, 0, 0, 0) 100%);
+border: none;
+border-radius: 10px;
+width: 100px;
+height: 60px;
+text-align: center;
+
+float: right;
+}
+
+@media (max-width: 800px) {
+  .learning_content {
+    flex: 100%;
+    flex-direction: column;
+    float: left;
+    margin-top: 35%;
+  }
+}
