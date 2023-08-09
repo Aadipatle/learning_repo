@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/learning_repo/static/css/main.07e9b6a1.css",
+    "main.js": "/learning_repo/static/js/main.b4da01b4.js",
+    "static/media/particles.mp4": "/learning_repo/static/media/particles.87671f35f6c8aab6a108.mp4",
+    "static/media/a.jpg": "/learning_repo/static/media/a.66a841cba4842c5ff85c.jpg",
+    "static/media/Ellipse 6.png": "/learning_repo/static/media/Ellipse 6.a15cb0b72349344c5724.png",
+    "static/media/html.png": "/learning_repo/static/media/html.553214e2577c55adb584.png",
+    "static/media/group.svg": "/learning_repo/static/media/group.0f298d4ac7b38de6a7818d8f2bce69c2.svg",
+    "static/media/css.png": "/learning_repo/static/media/css.9fff4ed08b9b4b3eabfc.png",
+    "static/media/Group 9.svg": "/learning_repo/static/media/Group 9.ad2b4175e7b50cb7930c.svg",
+    "static/media/insta.svg": "/learning_repo/static/media/insta.20e23845c6d5763341d904ca431a3828.svg",
+    "static/media/react-logo-vector.svg": "/learning_repo/static/media/react-logo-vector.4f7abcc3a4d5c559d9eb61b5f2dd5a87.svg",
+    "static/media/apple.svg": "/learning_repo/static/media/apple.cbaf0181c64fd2d62eee43b8475852b7.svg",
+    "static/media/link.svg": "/learning_repo/static/media/link.1ead8f47feab1f3a4f0e08a8ec9dd0b4.svg",
+    "static/media/google.svg": "/learning_repo/static/media/google.c67060265f62fb79fc6fa28baa1f2050.svg",
+    "static/media/toutub.svg": "/learning_repo/static/media/toutub.6725596afb5ad80393c4a4aa3ada3320.svg",
+    "static/media/facebook.svg": "/learning_repo/static/media/facebook.54520dd970d9efc13999cbf378192ffc.svg",
+    "static/media/gmail.svg": "/learning_repo/static/media/gmail.5ed3e827554fd87ec506234881002e22.svg",
+    "index.html": "/learning_repo/index.html",
+    "main.07e9b6a1.css.map": "/learning_repo/static/css/main.07e9b6a1.css.map",
+    "main.b4da01b4.js.map": "/learning_repo/static/js/main.b4da01b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e9b6a1.css",
+    "static/js/main.b4da01b4.js"
+  ]
+}
