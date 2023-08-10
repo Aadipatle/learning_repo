@@ -10,9 +10,9 @@
   background-image: url(../../assets/svg/group.svg);
   color: white;
   display: grid;
-  /* gap: 30%; */
+ 
   margin-left: 5%;
-  /* width: 100vw; */
+
   background-size: 800px;
   background-repeat: no-repeat;
   background-position: 500px;
@@ -20,13 +20,13 @@
 }
 .para {
   font-size: 20px;
-  /* line-height: 23px; */
+
   margin-top: 3%;
 }
 .heading {
   font-size: 62px;
   margin-top: 5%;
-  /* line-height: 79.2px; */
+  
 }
 .btn button {
   border: 1px solid #c158f2;
@@ -115,9 +115,7 @@ h4 {
   color: white;
   text-decoration: none;
   font-size: 20px;
-  /* background-color: #c158f2;
-  border: none;
-  border-radius: 5px; */
+ 
 }
  h6 {
   color: #c158f2;
@@ -219,7 +217,7 @@ img {
   padding: 15px;
 }
 
-/* media quary  */
+
 @media (max-width: 768px) {
 
   .online_content {
@@ -252,7 +250,7 @@ img {
   }
   .content .heading{
     align-items:center;
-    /* margin-left: -35px; */
+  
     font-size: 24px;
     float: left;
     background-position: center;
@@ -297,9 +295,7 @@ img {
   }
 }
 @media (min-width: 481px) and (max-width:768px){
-  .online_content {
-   
-  }
+ 
   .discription_content{
    width: 100%;
    box-sizing: border-box;
@@ -327,12 +323,7 @@ img {
 
 @media (min-width: 769px) and (max-width:1040px){
   
-  .discription_content{
-   
-   }
-   .landing_icon{
-   
-   }
+  
    h6{
     margin-top: 30%;
      margin-left: 0%;

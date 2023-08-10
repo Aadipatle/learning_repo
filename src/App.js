@@ -17,7 +17,7 @@ function App() {
   return ( 
     <BrowserRouter> 
       <Routes>
-        <Route path="/login" element={<Login />} />
+        <Route path="*" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/reset" element={<Reset />} />
         <Route path="/repass" element={<Repass />} />
@@ -26,9 +26,15 @@ function App() {
         <Route path="/course" element={<Course />} />
         <Route path="/front-end" element={<Front />} />
         <Route path="/" element={<div>Langing route....</div>} />
-        <Route path="*" element={<div>Not found....</div>} />
+        <Route path="/" element={<div>Not found....</div>} />
       </Routes>
     </BrowserRouter>
+    // <div>
+    
+    // <LandingPage/>
+    // <Course/>
+    // <Front/>
+    // </div>
   );
 }
 export default App;

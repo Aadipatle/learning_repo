@@ -90,15 +90,7 @@
      
   }
 }
-/* @media (max-width: 400px) {
-  .contants, .contents2,.box,.price {
-    flex: 100%;
-    flex-direction: column;
-    
-   
-     
-  }
-} */
+
 @media (max-width: 1000px) {
   .contants, .contents2 {
     flex: 100%;
